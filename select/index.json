@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "遊生夢死 - Yuseiboushi",
+  "base_artist": "Eve",
+  "createdAt": "2026-01-13T17:20:46.494062Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "遊生夢死",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_遊生夢死_Eve.txt"
+    }
+  ]
+}
